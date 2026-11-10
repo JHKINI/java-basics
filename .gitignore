@@ -1,0 +1,10 @@
+# 빌드 결과물
+bin/
+build/
+*.class
+
+# 라이브러리 (각 README에 목록 정리)
+*.jar
+
+# Eclipse 작업공간 메타데이터
+.metadata/
